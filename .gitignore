@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente (NUNCA subir isso)
+.env
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
